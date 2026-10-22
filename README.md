@@ -9,7 +9,7 @@
 
 ## 运行
 
-python python run.py
+python run.py
 
 ## 测试
 
@@ -22,5 +22,9 @@ pytest
 
 ## 作者
 
-\[https://github.com/seqse2022-create]
+\## 作者
+
+
+
+\[cu](https://github.com/seqse2022-create)
 
