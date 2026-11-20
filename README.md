@@ -16,17 +16,15 @@ python run.py
 pytest
 
 ## 目录结构
+* run.py: 运行代码
+* cleaner.py：核心代码
+* test_cleaner.py：测试代码
 
-* core/：核心代码
-* test/：测试代码
 
 ## 数据支持
-输入57行csv,3行重复文件,清洗后达到57 → 55 行的清洗效果
+输入57行csv,3行重复文件,清洗后达到57 → 54 行的清洗效果
 
 ## 作者
-
-\## 作者
-
 
 
 \[cu](https://github.com/seqse2022-create)
