@@ -16,9 +16,8 @@ python run.py
 pytest
 
 ## 目录结构
-* run.py: 运行代码
-* cleaner.py：核心代码
-* test_cleaner.py：测试代码
+core/：核心代码
+test/：测试代码
 
 
 ## 数据支持
